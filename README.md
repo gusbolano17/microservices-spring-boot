@@ -1,4 +1,4 @@
-# Proyecto Spring Boot - Arquitectura de Microservicios
+# Microservices spring-boot
 
 ## Descripción
 Este proyecto es una aplicación basada en una arquitectura de microservicios desarrollada con Spring Boot. Utiliza un proyecto Maven padre para gestionar los diferentes módulos y servicios.
