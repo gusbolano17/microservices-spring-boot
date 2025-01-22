@@ -1,0 +1,22 @@
+server:
+  port: 8090
+
+spring:
+  application:
+    name: msvc-estudiante
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    url: jdbc:postgresql:localhost:5432/mscv_estudiante
+    username: postgres
+    password: desarrollo25
+  jpa:
+    hibernate:
+      ddl-auto: create
+    database: postgresql
+
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka
