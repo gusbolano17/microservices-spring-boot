@@ -6,7 +6,7 @@ spring:
     name: msvc-estudiante
   datasource:
     driver-class-name: org.postgresql.Driver
-    url: jdbc:postgresql:localhost:5432/mscv_estudiante
+    url: jdbc:postgresql://localhost:5432/mscv_estudiante
     username: postgres
     password: desarrollo25
   jpa:
