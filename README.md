@@ -6,7 +6,7 @@ Este proyecto es una aplicación basada en una arquitectura de microservicios de
 ## Características principales
 - **Framework:** Spring Boot
 - **Arquitectura:** Microservicios
-- **Base de datos:** PostgreSQL (o cualquier otra que utilices)
+- **Base de datos:** PostgreSQL y MySQL
 - **Gestión de configuración:** Spring Config Server
 - **Registro de servicios:** Eureka Server
 - **Gateway:** Spring Cloud Gateway
